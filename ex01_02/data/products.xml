@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<products>
+    <product product-id="PN12345">
+        <name>klin</name>
+        <quantity>10</quantity>
+    </product>
+    <product product-id="PN54321">
+        <name>cokół</name>
+        <quantity>7</quantity>
+    </product>
+</products>

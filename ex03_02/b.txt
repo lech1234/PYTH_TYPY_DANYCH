@@ -1,0 +1,4 @@
+abcfoo
+fooabc
+abcfooabc
+ foo 
