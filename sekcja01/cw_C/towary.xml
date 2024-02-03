@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<magazyn>
+    <towar id="PN12345">
+        <nazwa>klin</nazwa>
+        <ilosc>10</ilosc>
+    </towar>
+    <towar id="PN54321">
+        <nazwa>cokół</nazwa>
+        <ilosc>7</ilosc>
+    </towar>
+</magazyn>
